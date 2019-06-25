@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">115793575269-dk8tps10m39ua4d15sol7jv3n7hqu8oe.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sdpd-communication.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">115793575269</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdpim03O0HGKqvHZWnvatj9iJAMmg44Mo</string>
+    <string name="google_app_id" translatable="false">1:115793575269:android:074610b6fa86b978</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdpim03O0HGKqvHZWnvatj9iJAMmg44Mo</string>
+    <string name="google_storage_bucket" translatable="false">sdpd-communication.appspot.com</string>
+    <string name="project_id" translatable="false">sdpd-communication</string>
+</resources>

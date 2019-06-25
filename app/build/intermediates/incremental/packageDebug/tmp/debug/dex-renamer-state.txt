@@ -1,0 +1,7 @@
+#Tue Jun 25 20:10:48 IST 2019
+base.0=/Volumes/Seagate/github/android-vision-master 2 copy/visionSamples/ocr-reader/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Volumes/Seagate/github/android-vision-master 2 copy/visionSamples/ocr-reader/app/build/intermediates/transforms/dexMerger/debug/1
